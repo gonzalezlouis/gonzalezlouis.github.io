@@ -4,4 +4,16 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+  color: "#87aa4a"
 
+"PNAS":
+  url: https://pnas.org/
+  color: "#ADD8E6"
+
+"MNRAS":
+  url: https://academic.oup.com/mnras 
+  color: "#DFC5FE"
+
+"Nature":
+  url: https://nature.com
+  color: "00000"
