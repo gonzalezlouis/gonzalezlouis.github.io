@@ -31,19 +31,19 @@
       "area": "Physics -- Theoretical Biophysics",
       "studyType": "PhD",
       "startDate": "2019",
-      "endDate": "present",
-      "score": "1",
+      "endDate": "",
+      "score": "",
       "courses": [
         "Cosmology", "Biophysics", "Computational Biology"
       ]
     },
     {
       "institution": "University of Pittsburgh, USA",
-      "area": "Physics",
+      "area": "Physics -- Theoretical Biophysics",
       "studyType": "MS",
       "startDate": "2019",
       "endDate": "2021",
-      "score": "2",
+      "score": "",
       "courses": [
         "Cosmology", "Biophysics", "Computational Biology"
       ]
@@ -54,7 +54,7 @@
       "studyType": "BS",
       "startDate": "2014",
       "endDate": "2018",
-      "score": "3",
+      "score": "",
       "courses": [
         "Astronomical Techniques and Observation", "Computational Astrophysics", "Stellar Astrophysics", "Astrophysics"
       ]
