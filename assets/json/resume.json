@@ -21,7 +21,7 @@
       "name": "Department of Physics and Astronomy, University of Pittsburgh",
       "position": "Graduate Student",
       "startDate": "2019",
-      "endDate": "present"
+      "endDate": ""
     }
   ],
   "volunteer": [],
@@ -30,9 +30,9 @@
       "institution": "University of Pittsburgh, USA",
       "area": "Physics -- Theoretical Biophysics",
       "studyType": "PhD",
-      "startDate": "2019",
+      "startDate": "2019", 
       "endDate": "",
-      "score": "",
+      "score": "1",
       "courses": [
         "Cosmology", "Biophysics", "Computational Biology"
       ]
@@ -43,7 +43,7 @@
       "studyType": "MS",
       "startDate": "2019",
       "endDate": "2021",
-      "score": "",
+      "score": "2",
       "courses": [
         "Cosmology", "Biophysics", "Computational Biology"
       ]
@@ -54,7 +54,7 @@
       "studyType": "BS",
       "startDate": "2014",
       "endDate": "2018",
-      "score": "",
+      "score": "3",
       "courses": [
         "Astronomical Techniques and Observation", "Computational Astrophysics", "Stellar Astrophysics", "Astrophysics"
       ]

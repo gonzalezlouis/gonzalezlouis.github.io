@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Self-Portrait.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -19,8 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Fifth year Physics PhD student at the University of Pittsburgh, working in [Dr. Andrew Mugler's Group](https://mugler.pitt.edu). My research focus is on the study of spatiotemporal signaling in cells, in particular within the context of tumor cells during cancer metastasis.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work uses techniques in partial differential equations, statistical mechanics, thermodynamics, fluid dynamics, and numerical and complex analysis to model migration phenomena in cells. My current work focuses on the ability of cells to exploit oncoming fluid flow to sense the mechanical forces in order to express an upstream migratory phenotype, an apparent contradiction to the nature of tumor cells using chemical cues to travel downstream and continue the process of cancer metastasis. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My previous work included studying cell-cell communication in colonies and how this communication can be improved of cells use both quorum sensing and a positive feedback loop in signal autoamplification ("trigger waves"), how autologous chemotaxis (where cells secrete diffusible ligand that is then biased by flow and binded to surface receptors to determine fluid direction and migration phenotype) fails at high cell density, and how a hypothetical cell cluster could overcome said failure, something that is motivated by the physiological environment of a tumor. 
+
+Feel free to read the related selected publications below.
