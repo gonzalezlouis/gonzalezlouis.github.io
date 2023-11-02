@@ -5,7 +5,7 @@
     "image": "",
     "email": "gonzalezlouis [at] pitt.edu",
     "phone": "",
-    "url": "https:gonzalezlouis.github.io",
+    "url": "https://gonzalezlouis.github.io",
     "summary": "",
     "location": {
       "address": "200 Allen Hall",
@@ -32,7 +32,7 @@
       "studyType": "PhD",
       "startDate": "2019",
       "endDate": "present",
-      "score": "",
+      "score": "1",
       "courses": [
         "Cosmology", "Biophysics", "Computational Biology"
       ]
@@ -43,7 +43,7 @@
       "studyType": "MS",
       "startDate": "2019",
       "endDate": "2021",
-      "score": "",
+      "score": "2",
       "courses": [
         "Cosmology", "Biophysics", "Computational Biology"
       ]
@@ -54,7 +54,7 @@
       "studyType": "BS",
       "startDate": "2014",
       "endDate": "2018",
-      "score": "",
+      "score": "3",
       "courses": [
         "Astronomical Techniques and Observation", "Computational Astrophysics", "Stellar Astrophysics", "Astrophysics"
       ]
