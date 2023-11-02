@@ -5,22 +5,16 @@
     "image": "",
     "email": "gonzalezlouis [at] pitt.edu",
     "phone": "",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https:gonzalezlouis.github.io",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "200 Allen Hall",
+      "postalCode": "PA 15213",
+      "city": "Pittsburgh",
       "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "region": "Pennsylvania"
+    }
+    
   },
   "work": [
     {
