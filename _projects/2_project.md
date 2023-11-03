@@ -16,7 +16,7 @@ This is was originally discovered in tumors where it is advantageous of a tumor 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/autologous/fig1_autologous2.pdf" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/autologous/fig1.pdf" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/autologous/fig3.png" title="" class="img-fluid rounded z-depth-1" %}
@@ -41,7 +41,7 @@ If one where to track how the surface concentration asymmetry (anisotropy) chang
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/autologous/fig2.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/autologous/fig2_autologous2.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -54,7 +54,7 @@ A good way to put this is: imagine a camera. In low light conditions, the camera
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/autologous/fig1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/autologous/fig1_autologous3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/autologous/fig2.png" title="example image" class="img-fluid rounded z-depth-1" %}
