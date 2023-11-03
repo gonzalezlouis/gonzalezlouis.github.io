@@ -4,8 +4,9 @@ title: project 1
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: current work
+# related_publications: einstein1956investigations, einstein1950meaning
+related_publications: gonzalez2023collective
 ---
 
 Every project has a beautiful feature showcase page.

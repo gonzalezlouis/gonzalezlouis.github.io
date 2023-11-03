@@ -100,7 +100,14 @@
       "awarder": "Society for the Advancement of Chicano and Native American Students"
     }
   ],
-  "interests": [],
+  "engagements": [
+    {
+      "title": "Dietrich School of Arts and Sciences Pre-Doctoral Fellowship",
+      "date": "2019",
+      "venue": "hghk",
+      "summary": "Graduate programs include Arts and Sciences Fellowships in funding packages to recruit doctoral students of exceptional ability and promise, either for their first year in the Ph.D. program or for later years."
+    }
+  ],
   "references": [],
   "projects": []
 }
