@@ -102,10 +102,39 @@
   ],
   "engagements": [
     {
-      "title": "Dietrich School of Arts and Sciences Pre-Doctoral Fellowship",
-      "date": "2019",
-      "venue": "hghk",
-      "summary": "Graduate programs include Arts and Sciences Fellowships in funding packages to recruit doctoral students of exceptional ability and promise, either for their first year in the Ph.D. program or for later years."
+      "title": "QBio Conference",
+      "date": "Jul. 2022",
+      "venue": "Colorado State University -- Fort Collins, Colorado",
+      "summary": "Presented a poster: 'Autologous Chemotaxis at High Cell Density'.",
+      "score": "1"
+    },
+    {
+      "title": "Stochastic Physics in Biology -- Gordon Research Conference",
+      "date": "Jan. 2023",
+      "venue": "Four Points Sheraton / Holiday Inn Express -- Ventura, California",
+      "summary": "Presented a poster: 'Autologous Chemotaxis at High Cell Density'.",
+      "score": "2"
+    },
+    {
+      "title": "March Meeting -- American Physical Society",
+      "date": "Mar. 2023",
+      "venue": "Caesar's Forum -- Las Vegas, Nevada",
+      "summary": "Presented a talk: 'Collective Effects in Flow Driven Cancer Cell Migration'.",
+      "score": "3"
+    },
+    {
+      "title": "Summer Biomechanics, Bioengineering, and Biotransport Conference -- Student Paper and Presentation PhD Competition",
+      "date": "Jun. 2023",
+      "venue": "Hilton Hyatt Vail -- Vail, Colorado",
+      "summary": "Presented a talk as part of the Student Paper and Presentation PhD Competition: 'Collective Effects in Flow Driven Cell Migration'. Received 1st Place.",
+      "score": "4"
+    },
+    {
+      "title": "QBio Conference -- Chinese Academy of Sciences",
+      "date": "Jul. 2023",
+      "venue": "Shenzhen Institute of Arts and Technology -- Shenzhen, China",
+      "summary": "Presented a talk: 'Collective Effects in Flow Driven Cell Migration'.",
+      "score": "5"
     }
   ],
   "references": [],

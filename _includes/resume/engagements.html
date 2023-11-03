@@ -30,7 +30,7 @@
 
 
   <ul class="card-text font-weight-light list-group list-group-flush">
-    {% assign engagements = data[1] | sort: 'date' | reverse %}
+    {% assign engagements = data[1] | sort: 'score' | reverse %}
     {% for content in engagements %}
     <li class="list-group-item">
       <div class="row">
