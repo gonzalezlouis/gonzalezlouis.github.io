@@ -24,10 +24,10 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/autologous/fig1.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/autologous/fig3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -42,7 +42,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    N-body advection diffusion equation simulation for N = 250 cells. The concentration saturates the finite domain, causing the box to become more and more redder over time. This saturation causes the individual cells in the box to ineffectively determine the fluid flow direction. In the context of cancer, this stops tumor cells from traveling downstream towards the vessel. 
 </div>
 
 You can also put regular text between your rows of images.
@@ -59,7 +59,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    (Left) A monte-carlo simulation of cells that are initialized as a cluster and allowed to undergo chemotaxis, a biased random walk where the cells are following spatial graidents $\psi_g$ and concentration gradients $\psi_c$. The former causes cells to travel in the direction of fluid flow while the latter is what allows the cells to stick together. (Right) The difference in individual vs collective autologous chemosensing. If cells compute the concentration signal as individuals, they are fundamentally limited in their measurement by the spatial gradient within the finite box, which homogenizes as cell density increases. However, if they compute the concnetration as a collective, they instead improve their measurement the higher the number of individual agents participating in the concentration. This is akin as a camera's ability to resolve an image is dependent on how many pixels are in its image sensor. 
 </div>
 
 
@@ -68,15 +68,6 @@ Just wrap your images with `<div class="col-sm">` and place them inside `<div cl
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+
 ```
 {% endraw %}
