@@ -6,7 +6,7 @@ img: assets/img/autologous/250cellwake.png
 importance: 1
 category: past work
 giscus_comments: false
-related_publications: vennettilli2022autologous, gonzalez2023collective
+related_publications: vennettilli2022autologous, gonzalez2023collective 
 ---
 
 Autologous chemotaxis is the process in which a cell secretes diffusible ligand that is then biased in the direction of some oncoming fluid flow. The cell then binds to that autocrine and the asymmetry in concentration on its upstream and downstream side is what leads to downstream migration. 
