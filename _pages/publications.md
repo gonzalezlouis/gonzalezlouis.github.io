@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: List of publications in descending order, accepted/in review/submitted articles are labeled accordingly.
+description: List of publications in descending order.
 nav: true
 nav_order: 1
 ---
